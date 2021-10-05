@@ -1,0 +1,102 @@
+[
+    {
+        "key": "1",
+        "title": "Ultimate AWS Certified Solutions Architect Associate 2021",
+        "description": "Pass the AWS Certified Solutions Architect Associate Certification SAA-C02. Complete Amazon Web Services Cloud training!",
+        "students": "396,356 students",
+        "rating": 4.7,
+        "img": "https://img-c.udemycdn.com/course/240x135/2196488_8fc7_7.jpg",
+        "link": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/"
+
+    },
+    {
+        "key": "2",
+        "title": "The Complete 2021 Web Development Bootcamp",
+        "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+        "students": "478,267 students",
+        "rating": 4.7,
+        "img": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
+        "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+    },
+    {
+        "key": "3",
+        "title": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+        "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+        "students": "1,378,306 students",
+        "rating": 4.6,
+        "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "link": "https://www.udemy.com/course/complete-python-bootcamp/"
+    },
+    {
+        "key": "4",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "students": "243,346 students",
+        "rating": 4.8,
+        "img": "https://img-c.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+        "link": "https://www.udemy.com/course/ios-13-app-development-bootcamp/"
+    },
+    {
+        "key": "5",
+        "title": "The Data Science Course 2021: Complete Data Science Bootcamp",
+        "description": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+        "students": "430,295 students",
+        "rating": 4.7,
+        "img": "https://img-c.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+        "link": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
+    },
+    {
+        "key": "6",
+        "title": "The Complete Web Developer Course 2.0",
+        "description": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+        "students": "294,001 students",
+        "rating": 4.5,
+        "img": "https://img-c.udemycdn.com/course/240x135/764164_de03_2.jpg",
+        "link": "https://www.udemy.com/course/the-complete-web-developer-course-2/"
+    },
+    {
+        "key": "7",
+        "title": "The Complete Web Developer in 2021: Zero to Mastery",
+        "description": "Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+        "students": "243,346 students",
+        "rating": 4.8,
+        "img": "https://img-c.udemycdn.com/course/240x135/1430746_2f43_10.jpg",
+        "link": "https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/"
+    },
+    {
+        "key": "8",
+        "title": "API and Web Service Introduction",
+        "description": "Includes API, Web Services using REST, JSON, XML, HTTP, SOAP, OAuth, OpenID Connect, Postman and Python",
+        "students": "243,346 students",
+        "rating": 4.8,
+        "img": "https://img-c.udemycdn.com/course/240x135/1677376_3eac_3.jpg",
+        "link": "https://www.udemy.com/course/api-and-web-service-introduction/"
+    },
+    {
+        "key": "9",
+        "title": "Node with React: Fullstack Web Development",
+        "description": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+        "students": "243,346 students",
+        "rating": 4.7,
+        "img": "https://img-c.udemycdn.com/course/240x135/1254420_f6cb_4.jpg",
+        "link": "https://www.udemy.com/course/node-with-react-fullstack-web-development/"
+    },
+    {
+        "key": "10",
+        "title": "Amazon Web Services (AWS) Certified - 4 Certifications!",
+        "description": "Videos, labs & practice exams - AWS Certified (Solutions Architect, Developer, SysOps Administrator, Cloud Practitioner)",
+        "students": "118,116 students",
+        "rating": 4.8,
+        "img": "https://img-c.udemycdn.com/course/240x135/1047846_83ef_28.jpg",
+        "link": "https://www.udemy.com/course/aws-certified-associate-architect-developer-sysops-admin/"
+    },
+    {
+        "key": "11",
+        "title": "AWS Certified Cloud Practitioner - Complete NEW Course 2021",
+        "description": "Get your AWS Certified Cloud Practitioner certification in 20 days! Includes guided hands-on exercises & practice exam",
+        "students": "243,346 students",
+        "rating": 4.8,
+        "img": "https://img-c.udemycdn.com/course/240x135/2645936_2526_6.jpg",
+        "link": "https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/"
+    }
+]
