@@ -1,0 +1,56 @@
+[
+    {
+        "key": "1",
+        "title": "Thermometer Digital LCD",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3NTk3LVRoZXJtb21ldGVyLURpZ2l0YWwtTENELWNrOTUuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ==",
+        "price": "120.00"
+    },
+    {
+        "key": "2",
+        "title": "Accu Chek Active Blood Glucometer Kit (Box of 10 Test strips Free)",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3MzM1LUFjY3UtQ2hlay1BY3RpdmUtQmxvb2QtR2x1Y29tZXRlci1LaXQtQm94LW9mLTEwLVRlc3Qtc3RyaXBzLUZyZWUtc3Fzdy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0=",
+        "price": "2250.00"
+    },
+    {
+        "key": "3",
+        "title": "Accu Chek Active Strip",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3MzM2LUFjY3UtQ2hlay1BY3RpdmUtU3RyaXAtYnVqcS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19",
+        "price": "950.00"
+    },
+    {
+        "key": "4",
+        "title": "Blood Pressure Machine ALPK2",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3MzQ5LUJsb29kLVByZXNzdXJlLU1hY2hpbmUtQUxQSzItMzdpZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0=",
+        "price": "1599.00"
+    },
+    {
+        "key": "5",
+        "title": "Jumper JPD-500D (OLED Version) Fingertip Pulse Oximeter (CE & FDA Approved)",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMzFcLzMxMjgyLUp1bXBlci1KUEQtNTAwRC1PTEVELVZlcnNpb24tRmluZ2VydGlwLVB1bHNlLU94aW1ldGVyLUNFLUZEQS1BcHByb3ZlZC13OW44LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0=",
+        "price": "1699.00"
+    },
+    {
+        "key": "6",
+        "title": "ACCU CHEK Performa (Test Strip)",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3NjU1LUFDQ1UtQ0hFSy1QZXJmb3JtYS1UZXN0LVN0cmlwLTcweTMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19",
+        "price": "975.00"
+    },
+    {
+        "key": "7",
+        "title": "Jumper JPD-500E (LED Version) Fingertip Pulse Oximeter (CE & FDA Approved)",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMzFcLzMxMjg0LUp1bXBlci1KUEQtNTAwRS1MRUQtVmVyc2lvbi1GaW5nZXJ0aXAtUHVsc2UtT3hpbWV0ZXItQ0UtRkRBLUFwcHJvdmVkLXR3cjEuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ==",
+        "price": "1499.00"
+    },
+    {
+        "key": "8",
+        "title": "Nebulizer Aero Comfort (White Color)",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3NjIxLU5lYnVsaXplci1BZXJvLUNvbWZvcnQtV2hpdGUtQ29sb3ItNmkwaS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0=",
+        "price": "1800.00"
+    },
+    {
+        "key": "9",
+        "title": "Blood Pressure Machine Microlife BP AG1-20",
+        "img": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjlcLzI5MDQ3LUJsb29kLVByZXNzdXJlLU1hY2hpbmUtTWljcm9saWZlLUJQLUFHMS0yMC1GdWxsLVNldC16bWhnLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ==",
+        "price": "1450.00"
+    }
+]
