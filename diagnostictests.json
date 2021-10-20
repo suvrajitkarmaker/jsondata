@@ -1,0 +1,43 @@
+[
+    {
+        "key": "1",
+        "title": "CT scan",
+        "img": "https://media.healthdirect.org.au/images/banners/w760h217/ct-scan_h.jpg",
+        "description": "A CT (computed tomography) scan is a type of x-ray that creates 3-dimensional images of your body, including bones, organs, tissues and tumours. The machine moves in a circular motion around you and takes x-rays of very thin slices of your body to create a cross-sectional image. CT scans provide different views and far greater detail than a 2-dimensional x-ray. They may be used instead of an x-ray when your doctor needs to see soft tissues in your body, which don’t always show up on x-rays.It helps diagnose medical conditions, for example when someone has internal injuries in an accident, and helps doctors plan medical treatment.CT scans provide different information to an ultrasound, which uses sound waves to create real-time images of the inside of the body."
+
+    },
+    {
+        "key": "2",
+        "title": "Electroencephalogram (EEG)",
+        "img": "https://media.healthdirect.org.au/images/banners/w760h217/EGG-women_h.jpg",
+        "description": "An EEG records the electrical signals sent between brain cells. This electrical activity is shown on a computer as ‘brain waves’, which are interpreted by a specialist doctor. If something is unusual about the brain’s electrical activity, it will show up in the EEG recording. The test is safe and doesn’t hurt, as it is merely recording the brain’s electrical activity."
+
+    },
+    {
+        "key": "3",
+        "title": "Eye tests",
+        "img": "https://media.healthdirect.org.au/images/banners/w760h217/Eye%20tests_h.jpg",
+        "description": "If you notice any symptoms with your eyes or any changes to your vision, you should see a doctor or organise an eye test. Regular eye tests can detect and diagnose eye problems in the early stages."
+    },
+    {
+        "key": "4",
+        "title": "Hearing test",
+        "img": "https://media.healthdirect.org.au/images/banners/w760h217/Hearing-test_h.jpg",
+        "description": "You may need a hearing test if you think there might be problems. For example, you might have hearing problems if you can only understand people if they face you or if you find it hard to understand people talking in noisy places. If you’re concerned about a child's hearing, they might need a hearing test if they’re slow to speak, struggling at school or have the TV up too loud.If you’re not sure whether you're suffering from hearing loss, you can do an online test. Online tests are a guide only - if you have any doubt, see an audiologist or your doctor."
+
+    },
+    {
+        "key": "5",
+        "title": "MRI scan",
+        "img": "https://media.healthdirect.org.au/images/banners/w760h217/MRI_scan_cr_h.jpg",
+        "description": "A magnetic resonance imaging (MRI) scan takes detailed pictures of the inside of the body. It can show up problems in the soft tissues without the need for surgery. It is also useful for planning some treatments of the same areas. When you have an MRI, you usually lie on a table that slides through a tunnel in the middle of the MRI scanner. The scanner uses strong magnetic fields and radio waves to generate signals from the body. These are picked up by a radio antenna and processed by a computer to create detailed pictures. The benefits of an MRI are that it produces very detailed pictures, does not use x-ray radiation, and is painless."
+
+    },
+    {
+        "key": "6",
+        "title": "Ultrasound",
+        "img": "https://media.healthdirect.org.au/images/banners/w760h217/Ultrasound_h.jpg",
+        "description": "An ultrasound scan is performed using a hand-held scanner, or transducer, connected to a computer. High frequency sound waves are sent into the body. As the sound waves bounce around, the echoes are converted to electrical impulses that show a picture on a screen. During most ultrasound scans you will be asked to lie on your back or side. Gel will be put on your skin where the scan will take place. The sonographer will move the transducer on the gel. The sonographer may need to press, but you should not feel pain. If you need to have a transvaginal ultrasound scan you will be asked to empty your bladder and undress from the waist down, with a gown or sheet to cover you. The transducer is slightly larger than a tampon. It will be covered in a protective sleeve or condom and lubricated with gel, inserted into the vagina and gently moved around. Women can request female technicians to perform this type of ultrasound. An ultrasound scan usually takes 20 – 60 minutes. It is an outpatient procedure (you will not be admitted to hospital), performed by a specially trained doctor or sonographer. There are no after effects and you’ll be able to go about your normal activities afterwards."
+
+    }
+]
