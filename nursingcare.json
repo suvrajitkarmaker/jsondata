@@ -1,0 +1,20 @@
+[
+    {
+      "key": "1",
+      "title": "On call duty",
+      "img": "https://image.freepik.com/free-photo/asian-healthcare-female-posing_1258-36733.jpg",
+      "description": "Limited time"
+    },
+    {
+      "key": "2",
+      "title": "Stay home duty nurse service",
+      "img": "https://image.freepik.com/free-photo/healthcare-workers-medicine-covid-19-pandemic-self-quarantine-concept-smiling-attractive-doctor-scrubs-glasses-stethoscope-neck-cross-arms-chest-ready-help-patients_1258-58772.jpg",
+      "description": "Half day package"
+    },
+    {
+      "key": "3",
+      "title": "Stay home duty nurse service",
+      "img": "https://image.freepik.com/free-photo/medical-workers-covid-19-vaccination-concept-confident-professional-doctor-female-nurse-blue-scrubs-stethoscope-show-thumbs-up-assure-guarantee-best-quality-service-clinic_1258-57360.jpg",
+      "description": "Full day package"
+    }
+]
